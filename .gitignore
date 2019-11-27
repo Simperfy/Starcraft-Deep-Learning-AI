@@ -1,0 +1,4 @@
+env
+train_data
+pysc2-stage1-training-data.zip
+BasicCNN-10-epochs-0.0001-LR-STAGE1
